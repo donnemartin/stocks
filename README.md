@@ -1,7 +1,7 @@
 stockanalyzer
 ============
 
-Stock analyzer written in C++.
+C++ Stock Analyzer: Analyzes and ranks stocks based on their Moving Average Convergence Divergence (MACD).
 
 Analyzes various stocks taken from Google Finance.
 
