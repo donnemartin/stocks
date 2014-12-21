@@ -34,6 +34,4 @@ Data files:
 Stocks are ranked based on their current Moving Average Convergence Divergence, MACD,
 based upon their past year of Closing Prices.
 
-The equations for MACD are in wiki at http://en.wikipedia.org/wiki/MACD.
-
 ![alt tag](https://raw.githubusercontent.com/donnemartin/stockanalyzer/master/res/stockanalyzer.png)
