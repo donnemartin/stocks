@@ -5,6 +5,9 @@ C++ Stock Analyzer: Analyzes and ranks stocks based on their Moving Average Conv
 
 Analyzes various stocks taken from Google Finance.
 
+Stocks are ranked based on their current Moving Average Convergence Divergence, MACD,
+based upon their past year of Closing Prices.
+
 ##License
 
     Copyright 2014 Donne Martin
@@ -23,15 +26,10 @@ Analyzes various stocks taken from Google Finance.
 
 ![alt tag](https://raw.githubusercontent.com/donnemartin/stockanalyzer/master/res/googlefinance.png)
 
-Companies:
+##Sample Companies:
 
 ![alt tag](https://raw.githubusercontent.com/donnemartin/stockanalyzer/master/res/companies.png)
 
-Data files:
+##Sample Data Files:
 
 ![alt tag](https://raw.githubusercontent.com/donnemartin/stockanalyzer/master/res/data.png)
-
-Stocks are ranked based on their current Moving Average Convergence Divergence, MACD,
-based upon their past year of Closing Prices.
-
-![alt tag](https://raw.githubusercontent.com/donnemartin/stockanalyzer/master/res/stockanalyzer.png)
